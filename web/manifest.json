@@ -1,6 +1,6 @@
 {
     "name": "RTPI label",
-    "short_name": "rtpi_label",
+    "short_name": "RTPI",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
