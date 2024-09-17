@@ -73098,7 +73098,7 @@ l9(){var s=this
 return A.aG(["name",s.a,"classification",s.b,"fisicalForm",s.c,"destination",s.d,"packagingType",s.e,"content",s.f,"specieIndication",s.r,"useMode",s.w,"preservation",s.x,"controlDescription",s.y,"restriction",s.z,"ingredients",s.Q,"crudeProtein",s.as],t.N,t.z)}}
 A.HV.prototype={
 M(a){var s=null,r=A.qJ(s,A.al1(B.Z,s,s,B.dV),!0)
-return new A.vT(A.aG(["/",new A.a4U()],t.N,t.Ab),"/","Flutter Demo",r,!1,s)}}
+return new A.vT(A.aG(["/",new A.a4U()],t.N,t.Ab),"/","RTPI Label",r,!1,s)}}
 A.a4U.prototype={
 $1(a){return B.BQ},
 $S:444}
