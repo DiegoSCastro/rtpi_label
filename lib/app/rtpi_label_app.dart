@@ -13,7 +13,10 @@ class RtpiLabelApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
         useMaterial3: true,
       ),
-      home: const LabelEditPage(),
+      initialRoute: '/',
+      routes: {
+        '/': (context) => const LabelEditPage(),
+      },
     );
   }
 }
